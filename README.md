@@ -23,15 +23,15 @@ Entités
 
 
 Attributs commun :
-Santé / regénération
-Faim
-Couleurs (cammouflage)
-Resistance à température
+- Santé / regénération
+- Faim
+- Couleurs (cammouflage)
+- Resistance à température
 
 
 Type de griffe/de cuirasse
 
 
-*INTRODUCTION AU DARWINISME
-*PHENOTYPE ET ENVIRONNEMENT
-*COEVOLUTION PROIX/PREDATEUR
+/ INTRODUCTION AU DARWINISME
+/ PHENOTYPE ET ENVIRONNEMENT
+/ COEVOLUTION PROIX/PREDATEUR
