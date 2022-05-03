@@ -12,26 +12,26 @@ Prédation
 PATHFINDING
 - Trouver de la végétation
 - Chasser des proies/fuir
-- Trouver des partenaire
+- Trouver des partenaires
 
 
 
 Entités
 
-- Proies -> trouve de la végétations
-- Prédateurs - > trouve des proies
+- Proies -> trouvent de la végétation
+- Prédateurs - > trouvent des proies
 
 
 Attributs commun :
 - Santé / regénération
 - Faim
-- Couleurs (cammouflage)
+- Couleurs (camouflage)
 - Resistance à température
 
 
 Type de griffe/de cuirasse
 
 
-/ INTRODUCTION AU DARWINISME
-/ PHENOTYPE ET ENVIRONNEMENT
-/ COEVOLUTION PROIX/PREDATEUR
+INTRODUCTION AU DARWINISME / PHENOTYPE ET ENVIRONNEMENT / COEVOLUTION PROIE/PREDATEUR
+
+*t[i][j] de "place" avec pour chacun une liste d'animaux s'y trouvant, int pour la richesse de végétations pour la bouffe, enum d'état ou d'évènements qui pourrait s'y dérouler ("Rien", "Proie", "Predateur", "Predation","Accouplement").*
