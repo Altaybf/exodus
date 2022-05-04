@@ -6,6 +6,7 @@ Project at URCA.
 Prédation
 - Détection
 - Chasse
+- Combat -> Prédateur fait X attaques succesif et si la proie survie, le prédateur abandonne
 
 
 
@@ -34,4 +35,4 @@ Type de griffe/de cuirasse
 
 INTRODUCTION AU DARWINISME / PHENOTYPE ET ENVIRONNEMENT / COEVOLUTION PROIE/PREDATEUR
 
-*t[i][j] de "place" avec pour chacun une liste d'animaux s'y trouvant, int pour la richesse de végétations pour la bouffe, enum d'état ou d'évènements qui pourrait s'y dérouler ("Rien", "Proie", "Predateur", "Predation","Accouplement").*
+*t[i][j] de "chunk" avec pour chacun une liste d'animaux s'y trouvant, int pour la richesse de végétations pour la bouffe, enum d'état ou d'évènements qui pourrait s'y dérouler ("Rien", "Proie", "Predateur", "Predation","Accouplement").*
